@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="176" height="36" viewBox="0 0 176 36">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 21.167px;
+        font-family: "Neck Candy";
+      }
+
+      .cls-2 {
+        fill: #313bac;
+      }
+    </style>
+  </defs>
+  <image id="Background" width="176" height="36" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAALAAAAAkCAYAAAApQLALAAAAe0lEQVR4nO3SAQ3AQBDDsNv4c+7jiGRTSL5tO4j6haPMwKQZmDQDk2Zg0gxMmoFJMzBpBibNwKQZmDQDk2Zg0gxMmoFJMzBpBibNwKQZmDQDk2Zg0gxMmoFJMzBpBibNwKQZmDQDk2Zg0gxMmoFJMzBpBibNwKQZmK67e2WlBERsgDV6AAAAAElFTkSuQmCC"/>
+  <text id="TINOTENDA" class="cls-1" transform="translate(0.248 25.309) scale(0.987)">TINO<tspan class="cls-2">TENDA</tspan></text>
+</svg>
